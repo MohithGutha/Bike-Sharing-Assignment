@@ -33,14 +33,14 @@ Significant variables to predict the demand for shared bikes
 
 
 ## Technologies Used
-- numpy - version 1.20.3
-- pandas - version 1.3.4
-- matplotlib - version 3.4.3
-- plotly - version 5.6.0
-- seaborn - version 0.11.2
-- statsmodels - version 0.12.2
-- sklearn - version 0.24.2
-- scipy - version 1.7.1   
+- numpy - version 1.23.5
+- pandas - version 1.5.3
+- matplotlib - version 3.7.0
+- plotly - version 5.15.0
+- seaborn - version 0.12.2
+- statsmodels - version 0.13.5
+- sklearn - version 1.2.1
+- scipy - version 1.10.0   
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
